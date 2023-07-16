@@ -1,0 +1,11 @@
+Open: Cheat Engine 7.4 -> Cheat Engine -> bin -> and run "notsusengine-x86_64-SSE4-AVX2.vmp.exe" 
+
+do NOT run the normal notsusengine-x86_64-SSE4-AVX2.exe
+
+VMProtect encoded and obfuscated
+
+Tested against Easy-AntiCheat, Vanguard Anticheat, Battl-Eye, Ricochet, PunkBuster and XIGNCODE3
+
+Attach to the notsusengine first, inject the dll and driver, then inject into the game
+
+NIGGER
